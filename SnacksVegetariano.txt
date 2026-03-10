@@ -1,10 +1,14 @@
 Hummus
 Nachos
 
+<<<<<<< HEAD
 
 Algun snack mas para Pauleta  tararijejeje
 pongo cosas por en medio
 
+=======
+Algun snack mas para Pauleta jejeje tarari
+>>>>>>> 27bda86 (vaya lio)
 
 
 mas cosas
